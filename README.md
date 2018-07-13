@@ -9,7 +9,6 @@ This script aims to simplify and provides a starting point to the usage of the R
 
 #Example Response
 
-<code>
 
 <RestcommResponse>
   <EmailMessage>
@@ -21,4 +20,4 @@ This script aims to simplify and provides a starting point to the usage of the R
     <Subject>Test Email</Subject>
   </EmailMessage>
 
-</code>
+
