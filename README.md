@@ -9,7 +9,7 @@ This script aims to simplify and provides a starting point to the usage of the R
 
 #Example Response
 
-
+<xml>
 <RestcommResponse>
   <EmailMessage>
     <DateSent>2016-02-07T23:43:03.910Z</DateSent>
@@ -20,4 +20,4 @@ This script aims to simplify and provides a starting point to the usage of the R
     <Subject>Test Email</Subject>
   </EmailMessage>
 
-
+</xml>
